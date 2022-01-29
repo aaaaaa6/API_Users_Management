@@ -9761,11 +9761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.AppServices\\Cliente.AppServices.csproj",
+      "projectUniqueName": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.AppServices\\Cliente.AppServices.csproj",
       "projectName": "Cliente.AppServices",
-      "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.AppServices\\Cliente.AppServices.csproj",
+      "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.AppServices\\Cliente.AppServices.csproj",
       "packagesPath": "C:\\Users\\j_ale\\.nuget\\packages\\",
-      "outputPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.AppServices\\obj\\",
+      "outputPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.AppServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9786,11 +9786,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Model\\Cliente.Model.csproj": {
-              "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Model\\Cliente.Model.csproj"
+            "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Model\\Cliente.Model.csproj": {
+              "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Model\\Cliente.Model.csproj"
             },
-            "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Web\\Cliente.Web.csproj": {
-              "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Web\\Cliente.Web.csproj"
+            "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Web\\Cliente.Web.csproj": {
+              "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Web\\Cliente.Web.csproj"
             }
           }
         }

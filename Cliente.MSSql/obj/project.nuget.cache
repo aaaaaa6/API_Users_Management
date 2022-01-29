@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "15ZirNYCoJqx2u6zoDpIMjQvt8PBOZoXIfw4O/FgJORzip/oar74L/kGzubV58FSO8EYhUJdd6Sqqw3mYPPVmQ==",
+  "dgSpecHash": "jPa8j+cFDBMSrjQC0hhnWWIkLRzwU0PCd41fel99GzV8JbBd64CghfsV0qsLAL6HqwtwvJfvOx8ZqjGKQj5Y8w==",
   "success": true,
-  "projectFilePath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.MSSql\\Cliente.MSSql.csproj",
+  "projectFilePath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.MSSql\\Cliente.MSSql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\j_ale\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\j_ale\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

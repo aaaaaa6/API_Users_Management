@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z+kQKvJFaO22F5WbCjbUAZW9nnCc5IezUw5B+3XFU6CZN1sBiHuPFeitSCdxwAJK6bDXOapg3AMexWZH87B9jA==",
+  "dgSpecHash": "Cow2SbA89puqdBaWjoQJ03zPHSOHqFOkvB4RkZbKXJSSpcG/Yr93eMRQGUH5s0tVwlucZmeL28oyAa6Tj0cmLw==",
   "success": true,
-  "projectFilePath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Model\\Cliente.Model.csproj",
+  "projectFilePath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Model\\Cliente.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Model\\Cliente.Model.csproj",
+      "projectUniqueName": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Model\\Cliente.Model.csproj",
       "projectName": "Cliente.Model",
-      "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Model\\Cliente.Model.csproj",
+      "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Model\\Cliente.Model.csproj",
       "packagesPath": "C:\\Users\\j_ale\\.nuget\\packages\\",
-      "outputPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Model\\obj\\",
+      "outputPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

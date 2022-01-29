@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.AppServices\\Cliente.AppServices.csproj": {}
+    "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.AppServices\\Cliente.AppServices.csproj": {}
   },
   "projects": {
-    "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.AppServices\\Cliente.AppServices.csproj": {
+    "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.AppServices\\Cliente.AppServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.AppServices\\Cliente.AppServices.csproj",
+        "projectUniqueName": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.AppServices\\Cliente.AppServices.csproj",
         "projectName": "Cliente.AppServices",
-        "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.AppServices\\Cliente.AppServices.csproj",
+        "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.AppServices\\Cliente.AppServices.csproj",
         "packagesPath": "C:\\Users\\j_ale\\.nuget\\packages\\",
-        "outputPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.AppServices\\obj\\",
+        "outputPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.AppServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Model\\Cliente.Model.csproj": {
-                "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Model\\Cliente.Model.csproj"
+              "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Model\\Cliente.Model.csproj": {
+                "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Model\\Cliente.Model.csproj"
               },
-              "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Web\\Cliente.Web.csproj": {
-                "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Web\\Cliente.Web.csproj"
+              "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Web\\Cliente.Web.csproj": {
+                "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Web\\Cliente.Web.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Model\\Cliente.Model.csproj": {
+    "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Model\\Cliente.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Model\\Cliente.Model.csproj",
+        "projectUniqueName": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Model\\Cliente.Model.csproj",
         "projectName": "Cliente.Model",
-        "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Model\\Cliente.Model.csproj",
+        "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Model\\Cliente.Model.csproj",
         "packagesPath": "C:\\Users\\j_ale\\.nuget\\packages\\",
-        "outputPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Model\\obj\\",
+        "outputPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.MSSql\\Cliente.MSSql.csproj": {
+    "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.MSSql\\Cliente.MSSql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.MSSql\\Cliente.MSSql.csproj",
+        "projectUniqueName": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.MSSql\\Cliente.MSSql.csproj",
         "projectName": "Cliente.MSSql",
-        "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.MSSql\\Cliente.MSSql.csproj",
+        "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.MSSql\\Cliente.MSSql.csproj",
         "packagesPath": "C:\\Users\\j_ale\\.nuget\\packages\\",
-        "outputPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.MSSql\\obj\\",
+        "outputPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.MSSql\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -178,8 +178,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Model\\Cliente.Model.csproj": {
-                "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Model\\Cliente.Model.csproj"
+              "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Model\\Cliente.Model.csproj": {
+                "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Model\\Cliente.Model.csproj"
               }
             }
           }
@@ -240,14 +240,14 @@
         }
       }
     },
-    "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.UseCase\\Cliente.UseCase.csproj": {
+    "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.UseCase\\Cliente.UseCase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.UseCase\\Cliente.UseCase.csproj",
+        "projectUniqueName": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.UseCase\\Cliente.UseCase.csproj",
         "projectName": "Cliente.UseCase",
-        "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.UseCase\\Cliente.UseCase.csproj",
+        "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.UseCase\\Cliente.UseCase.csproj",
         "packagesPath": "C:\\Users\\j_ale\\.nuget\\packages\\",
-        "outputPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.UseCase\\obj\\",
+        "outputPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.UseCase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -268,8 +268,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.MSSql\\Cliente.MSSql.csproj": {
-                "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.MSSql\\Cliente.MSSql.csproj"
+              "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.MSSql\\Cliente.MSSql.csproj": {
+                "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.MSSql\\Cliente.MSSql.csproj"
               }
             }
           }
@@ -302,14 +302,14 @@
         }
       }
     },
-    "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Web\\Cliente.Web.csproj": {
+    "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Web\\Cliente.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Web\\Cliente.Web.csproj",
+        "projectUniqueName": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Web\\Cliente.Web.csproj",
         "projectName": "Cliente.Web",
-        "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Web\\Cliente.Web.csproj",
+        "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Web\\Cliente.Web.csproj",
         "packagesPath": "C:\\Users\\j_ale\\.nuget\\packages\\",
-        "outputPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Web\\obj\\",
+        "outputPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -330,8 +330,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.UseCase\\Cliente.UseCase.csproj": {
-                "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.UseCase\\Cliente.UseCase.csproj"
+              "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.UseCase\\Cliente.UseCase.csproj": {
+                "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.UseCase\\Cliente.UseCase.csproj"
               }
             }
           }

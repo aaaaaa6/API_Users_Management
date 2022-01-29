@@ -6431,11 +6431,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Web\\Cliente.Web.csproj",
+      "projectUniqueName": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Web\\Cliente.Web.csproj",
       "projectName": "Cliente.Web",
-      "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Web\\Cliente.Web.csproj",
+      "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Web\\Cliente.Web.csproj",
       "packagesPath": "C:\\Users\\j_ale\\.nuget\\packages\\",
-      "outputPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.Web\\obj\\",
+      "outputPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6456,8 +6456,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.UseCase\\Cliente.UseCase.csproj": {
-              "projectPath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.UseCase\\Cliente.UseCase.csproj"
+            "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.UseCase\\Cliente.UseCase.csproj": {
+              "projectPath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.UseCase\\Cliente.UseCase.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ReNPI2yVtkePmjukkA/ev9ERr1zpql3CBvvplLxgUSzMtwg72i9ZJSvRZ8Svwt8+fik/C5RuGlbvMCC8zZMlyA==",
+  "dgSpecHash": "CMnDiYqeFu4bY6KoMvWcOchRbCAG7qzygmiVocvSOCpWE+Ll3+sRObyO+8m+iRAGfGRk4ZJ5Sbk5HGneO7udsA==",
   "success": true,
-  "projectFilePath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.AppServices\\Cliente.AppServices.csproj",
+  "projectFilePath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.AppServices\\Cliente.AppServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\j_ale\\.nuget\\packages\\identitymodel\\5.2.0\\identitymodel.5.2.0.nupkg.sha512",
     "C:\\Users\\j_ale\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

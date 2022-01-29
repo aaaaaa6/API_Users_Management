@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+XE1icEJR/gxQ3Z8G2WwKQqOK6JfGaD6YliMSDMV/kIVrKX5FavQuRFQKZ/dcFr5z97f36D5tjeA/MygJzPjqA==",
+  "dgSpecHash": "Oa8lUIxv5o5/VSm1mV/vak1EYOefldcUrDsCfjivkO5BhTsN0uhenvgOg75a07eUJZV+oPMpzFmKO3kGRDx4hw==",
   "success": true,
-  "projectFilePath": "C:\\PruebaDegress\\Back\\SolucionClientes\\Cliente.UseCase\\Cliente.UseCase.csproj",
+  "projectFilePath": "C:\\Users\\j_ale\\source\\repos\\API_Users_Management\\Cliente.UseCase\\Cliente.UseCase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\j_ale\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\j_ale\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
