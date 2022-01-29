@@ -1,0 +1,15 @@
+C:\PruebaDegress\Back\SolucionClientes\Cliente.UseCase\bin\Debug\netcoreapp3.1\Cliente.UseCase.deps.json
+C:\PruebaDegress\Back\SolucionClientes\Cliente.UseCase\bin\Debug\netcoreapp3.1\Cliente.UseCase.dll
+C:\PruebaDegress\Back\SolucionClientes\Cliente.UseCase\bin\Debug\netcoreapp3.1\Cliente.UseCase.pdb
+C:\PruebaDegress\Back\SolucionClientes\Cliente.UseCase\bin\Debug\netcoreapp3.1\Cliente.Model.dll
+C:\PruebaDegress\Back\SolucionClientes\Cliente.UseCase\bin\Debug\netcoreapp3.1\Cliente.MSSql.dll
+C:\PruebaDegress\Back\SolucionClientes\Cliente.UseCase\bin\Debug\netcoreapp3.1\Cliente.MSSql.pdb
+C:\PruebaDegress\Back\SolucionClientes\Cliente.UseCase\bin\Debug\netcoreapp3.1\Cliente.Model.pdb
+C:\PruebaDegress\Back\SolucionClientes\Cliente.UseCase\obj\Debug\netcoreapp3.1\Cliente.UseCase.csproj.AssemblyReference.cache
+C:\PruebaDegress\Back\SolucionClientes\Cliente.UseCase\obj\Debug\netcoreapp3.1\Cliente.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebaDegress\Back\SolucionClientes\Cliente.UseCase\obj\Debug\netcoreapp3.1\Cliente.UseCase.AssemblyInfoInputs.cache
+C:\PruebaDegress\Back\SolucionClientes\Cliente.UseCase\obj\Debug\netcoreapp3.1\Cliente.UseCase.AssemblyInfo.cs
+C:\PruebaDegress\Back\SolucionClientes\Cliente.UseCase\obj\Debug\netcoreapp3.1\Cliente.UseCase.csproj.CoreCompileInputs.cache
+C:\PruebaDegress\Back\SolucionClientes\Cliente.UseCase\obj\Debug\netcoreapp3.1\Cliente.UseCase.csproj.CopyComplete
+C:\PruebaDegress\Back\SolucionClientes\Cliente.UseCase\obj\Debug\netcoreapp3.1\Cliente.UseCase.dll
+C:\PruebaDegress\Back\SolucionClientes\Cliente.UseCase\obj\Debug\netcoreapp3.1\Cliente.UseCase.pdb

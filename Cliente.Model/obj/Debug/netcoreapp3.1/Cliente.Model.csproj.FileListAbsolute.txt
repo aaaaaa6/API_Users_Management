@@ -1,0 +1,10 @@
+C:\PruebaDegress\Back\SolucionClientes\Cliente.Model\bin\Debug\netcoreapp3.1\Cliente.Model.deps.json
+C:\PruebaDegress\Back\SolucionClientes\Cliente.Model\bin\Debug\netcoreapp3.1\Cliente.Model.dll
+C:\PruebaDegress\Back\SolucionClientes\Cliente.Model\bin\Debug\netcoreapp3.1\Cliente.Model.pdb
+C:\PruebaDegress\Back\SolucionClientes\Cliente.Model\obj\Debug\netcoreapp3.1\Cliente.Model.csproj.AssemblyReference.cache
+C:\PruebaDegress\Back\SolucionClientes\Cliente.Model\obj\Debug\netcoreapp3.1\Cliente.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebaDegress\Back\SolucionClientes\Cliente.Model\obj\Debug\netcoreapp3.1\Cliente.Model.AssemblyInfoInputs.cache
+C:\PruebaDegress\Back\SolucionClientes\Cliente.Model\obj\Debug\netcoreapp3.1\Cliente.Model.AssemblyInfo.cs
+C:\PruebaDegress\Back\SolucionClientes\Cliente.Model\obj\Debug\netcoreapp3.1\Cliente.Model.csproj.CoreCompileInputs.cache
+C:\PruebaDegress\Back\SolucionClientes\Cliente.Model\obj\Debug\netcoreapp3.1\Cliente.Model.dll
+C:\PruebaDegress\Back\SolucionClientes\Cliente.Model\obj\Debug\netcoreapp3.1\Cliente.Model.pdb

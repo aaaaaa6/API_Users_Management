@@ -1,0 +1,16 @@
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\bin\Debug\netcoreapp3.1\Cliente.MSSql.deps.json
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\bin\Debug\netcoreapp3.1\Cliente.MSSql.runtimeconfig.json
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\bin\Debug\netcoreapp3.1\Cliente.MSSql.runtimeconfig.dev.json
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\bin\Debug\netcoreapp3.1\Cliente.MSSql.dll
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\bin\Debug\netcoreapp3.1\Cliente.MSSql.pdb
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\bin\Debug\netcoreapp3.1\Cliente.Model.dll
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\bin\Debug\netcoreapp3.1\Cliente.Model.pdb
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\obj\Debug\netcoreapp3.1\Cliente.MSSql.csproj.AssemblyReference.cache
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\obj\Debug\netcoreapp3.1\Cliente.MSSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\obj\Debug\netcoreapp3.1\Cliente.MSSql.AssemblyInfoInputs.cache
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\obj\Debug\netcoreapp3.1\Cliente.MSSql.AssemblyInfo.cs
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\obj\Debug\netcoreapp3.1\Cliente.MSSql.csproj.CoreCompileInputs.cache
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\obj\Debug\netcoreapp3.1\Cliente.MSSql.csproj.CopyComplete
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\obj\Debug\netcoreapp3.1\Cliente.MSSql.dll
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\obj\Debug\netcoreapp3.1\Cliente.MSSql.pdb
+C:\PruebaDegress\Back\SolucionClientes\Cliente.MSSql\obj\Debug\netcoreapp3.1\Cliente.MSSql.genruntimeconfig.cache
